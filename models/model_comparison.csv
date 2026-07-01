@@ -1,0 +1,4 @@
+,Number of Clusters,Silhouette Score,Davies-Bouldin Index,Calinski-Harabasz Index
+K-Means,6.0,0.4284,0.8254,135.1
+Hierarchical (Agglomerative),6.0,0.4201,0.8521,127.99
+DBSCAN,6.0,0.4817,0.6386,117.8
